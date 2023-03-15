@@ -32,7 +32,7 @@ public class Client {
 	private static String item;
 	private static Fierarie fabricaAbstracta;
 	Font fontMC;
-
+	
 	/**
 	 * Launch the application.
 	 */

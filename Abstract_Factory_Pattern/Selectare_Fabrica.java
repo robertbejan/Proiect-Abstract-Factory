@@ -2,6 +2,11 @@ package Abstract_Factory_Pattern;
 
 public class Selectare_Fabrica {
 
+	/**
+	 * 
+	 * @param alegere paramentru pentru a alege tipul de material
+	 * @return returneaza un obiect de tipul materialului ales
+	 */
 	public static Fierarie selectare(String alegere) {
 		if("Lemn".equalsIgnoreCase(alegere))
 			return new Material_lemn();
