@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"Abstract_Factory_Pattern"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
